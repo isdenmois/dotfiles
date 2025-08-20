@@ -1,0 +1,7 @@
+conf.d
+!conf.d/abbrs.fish
+
+functions
+themes
+fish_variables
+
