@@ -1,0 +1,17 @@
+import = ["~/.config/alacritty/catppuccin-mocha.toml"]
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 16
+
+[font.normal]
+family = "Monoid Nerd Font Mono"
+
+[mouse]
+hide_when_typing = true
+
+[selection]
+save_to_clipboard = true
+
